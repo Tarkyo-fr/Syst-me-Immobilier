@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: MineNorth Immo
+Specification-Vendor: MineNorth RP
+Specification-Version: 1
+Implementation-Title: minenorth-immo
+Implementation-Version: 1.0.0
+Implementation-Vendor: MineNorth RP
+

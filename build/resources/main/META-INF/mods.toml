@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved - MineNorthRP"
+[[mods]]
+modId="minenorthimmo"
+version="1.0.0"
+displayName="MineNorth Immo"
+authors="MineNorth RP"
+description='''Agence immobilière MineNorth RP : catalogue, achat, location, prolongation et revente des biens.'''
+[[dependencies.minenorthimmo]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.minenorthimmo]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.minenorthimmo]]
+modId="minenorthportes"
+mandatory=true
+versionRange="[1.0.0,2)"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.minenorthimmo]]
+modId="minenorthapi"
+mandatory=true
+versionRange="[1.0.0,2)"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.minenorthimmo]]
+modId="minenorth_eurobank"
+mandatory=true
+versionRange="[1.0.0,2)"
+ordering="AFTER"
+side="BOTH"
